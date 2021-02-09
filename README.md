@@ -95,4 +95,6 @@ really matters — understanding how to manipulate arrays in JavaScript.
 [slice]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice?v=control
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-arrays-lab'>Javascript Arrays Lab</a> on Learn.co and start learning to code for free.</p>
+kittens
+kittens = ["Milo", "Otis", "Garfield"]
 
